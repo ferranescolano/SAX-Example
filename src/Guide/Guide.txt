@@ -1,0 +1,13 @@
+Disponemos del archivo datos.xml con ciertos datos de información
+relevante en la ciudad de Barcelona.
+Utilizando la tecnología vista en clase se pide:
+1. Implementar el código necesario que muestre la estructura del XML.
+Debe extraer la información del documento y mostrarnos los tags que
+forman el árbol DOM del fichero.
+2. Indicar cuántos árboles hay registrados.
+3. Implementar una funcionalidad que muestre aquellos árboles que
+tengan todos los datos con contenido (no pueden tener ningún tag vacío
+de nodo texto).
+4. Implementar una funcionalidad que permita ver el listado de árboles
+con una característica determinada parametrizable y que debe pedirse al
+usuario.
